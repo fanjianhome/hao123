@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/hao123/static/js/main.aabb97a4.chunk.js",
-    "main.js.map": "/hao123/static/js/main.aabb97a4.chunk.js.map",
+    "main.js": "/hao123/static/js/main.a32d8f59.chunk.js",
+    "main.js.map": "/hao123/static/js/main.a32d8f59.chunk.js.map",
     "runtime~main.js": "/hao123/static/js/runtime~main.c3feed40.js",
     "runtime~main.js.map": "/hao123/static/js/runtime~main.c3feed40.js.map",
     "static/js/2.9663c1dc.chunk.js": "/hao123/static/js/2.9663c1dc.chunk.js",
     "static/js/2.9663c1dc.chunk.js.map": "/hao123/static/js/2.9663c1dc.chunk.js.map",
     "index.html": "/hao123/index.html",
-    "precache-manifest.0f25c6334557988adf135b140413554b.js": "/hao123/precache-manifest.0f25c6334557988adf135b140413554b.js",
+    "precache-manifest.bfeaa7de49b59353bf988322c4dadc3e.js": "/hao123/precache-manifest.bfeaa7de49b59353bf988322c4dadc3e.js",
     "service-worker.js": "/hao123/service-worker.js"
   }
 }
