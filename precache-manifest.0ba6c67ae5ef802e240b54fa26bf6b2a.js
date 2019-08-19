@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8374012d64e9e7e628f0b3674cb648a",
+    "revision": "4f2c7d87ad6d5027d9d4ca5e8ee156c0",
     "url": "/hao123/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hao123/static/js/2.9663c1dc.chunk.js"
   },
   {
-    "revision": "042287d9572f41fcf41e",
-    "url": "/hao123/static/js/main.a32d8f59.chunk.js"
+    "revision": "951aaa5bff10963d9077",
+    "url": "/hao123/static/js/main.a04b330c.chunk.js"
   },
   {
     "revision": "59c35dd11b3eef6ae650",
